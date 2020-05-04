@@ -1,0 +1,16 @@
+#container {
+    display: inline-block;
+    background-color: teal;
+    outline: 1px solid black;
+}
+
+.unit {
+    background-color: pink;
+    outline: 1px solid black;
+    padding: 1.5rem;
+
+}
+
+.unit:hover {
+    background-color: red;
+}
